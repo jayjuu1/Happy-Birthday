@@ -1,7 +1,7 @@
 const lines = [
     { text: "Hey", speed: 80 }, 
     { text: "Well, y'know I'm not quite good with expressing myself with words", speed: 50 },
-    { text: "Even now I don't know what to say...", speed: 80 }, 
+    { text: "Even now I don't really know what to say...", speed: 80 }, 
     { text: "So I made this!", speed: 80 }, 
     { text: "Tap the screen!", speed: 80 },
     { text: "Good", speed: 80 },
