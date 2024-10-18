@@ -1,13 +1,13 @@
 const lines = [
     { text: "Hey", speed: 80 }, 
-    { text: "Well, y'know I'm not quite good with expressing myself with words", speed: 50 },
-    { text: "Even now I don't really know what to say...", speed: 80 }, 
-    { text: "So I made this!", speed: 80 }, 
-    { text: "Tap the screen!", speed: 80 },
-    { text: "Good", speed: 80 },
-    { text: "Turn on the volume", speed: 80},
-    { text: "Now sit here and relax", speed: 80},
-    { text: "Happy Birthday, Reika", speed: 120 }
+    { text: "Is my bububear feeling okay?", speed: 50 },
+    { text: "is the world being harsh to you?", speed: 80 }, 
+    { text: "Mylovelove, it's okay...", speed: 80 }, 
+    { text: "I'm here.", speed: 80 },
+    { text: "tap the screen once or twice", speed: 80 },
+    { text: "Turn on ur volume", speed: 80},
+    { text: "Just come to me whenever you dont feel well, okay?", speed: 80},
+    { text: "You always have me Reirei, Iloveyou", speed: 120 }
 ];
 
 let currentLine = 0;
